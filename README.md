@@ -1,12 +1,12 @@
 # Proposal of SCOPE Analysis: Aerial Palm Tree Counting Project
 
-Notes: In this project exploratory analysis i use terms of _"projected"_ as the indication for synthetization of data or rough assumptions, only for the project exploratory simulations purposes (contextual awareness and objective alignment), the actual facts and validity might actually far from accurate representative of SawitPro company
+Notes: In this project exploratory analysis i use terms of _"projected"_ as the indication for synthetization of data or rough assumptions, only for the project exploratory simulations purposes (contextual awareness and objective alignment), the actual facts and validity might actually far from accurate representative of company
 
 ## S: Stakeholder Requirements & Success Criteria
 
 ### Primary Stakeholders:
 
-- **Primary Stakeholders**: PT Digital Sawit Pro (SawitPro)
+- **Primary Stakeholders**: Company
 - **Plantation Manager**: Requires automated palm tree plantation quantity data for harvest planning (_projected_)
 - **Agricultural Officers**: Track and Monitor plantation's growth or decline
 - **Financial Department**: Require the data for asset analysis and valuation (_projected_)
@@ -176,12 +176,12 @@ Optimization Priority Order:
 
 ### B. Feedback Collection
 
-- **User Feedback**: Gather input from SawitPro Plantation Manager regarding of model reliability.
+- **User Feedback**: Gather input from Plantation Manager regarding of model reliability.
 - **Iterative Improvements**: Use monitoring metric to refine the model and retrain with new dataset improvement.
 
 ### Maintenance Strategy:
 
-- **Retraining Schedule**: Schedule the regular model updates to incorporate new data and model improvement regarding to SawitPro computational power
+- **Retraining Schedule**: Schedule the regular model updates to incorporate new data and model improvement regarding to computational power
 
 ## AI Model Development Approach Selection Framework
 
